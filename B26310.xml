@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Loyalty in grain, or, Act of oblivion repeal'd by Heraclitus</title>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B26310</idno><idno type="EEBO-CITATION">12648039</idno>
+  <idno type="VID">200320</idno>
+  <idno type="EEBO-PROQUEST">2240987838</idno>
+  
+            <idno type="STC">Wing L3380</idno>
+            <idno type="OCLC">12648039</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B26310)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 200320)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 965:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Loyalty in grain, or, Act of oblivion repeal'd by Heraclitus</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Published by Langley Curtis ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Heraclitus is a pseudonym for Thomas Flatman.</note>
+                  <note>Broadside.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Flatman, Thomas, 1637-1688.</term>
+               <term type="genre_form">Broadsides</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="tract">
+            <pb facs="tcp:200320:1"/>
+            <head>Loyalty in Grain, OR THE ACT of OBLIVION Repeal'd BY HERACLITUS.</head>
+            <epigraph>
+               <q>
+                  <l>
+                     <hi>Th' Heav'ns laugh at your attempts, and tell you loud,</hi>
+                  </l>
+                  <l>
+                     <hi>The Sons shall live to 'venge their Fathers Blood.</hi>
+                  </l>
+                  <bibl>Heraclitus Ridens, <hi>Numb.</hi> 69.</bibl>
+               </q>
+            </epigraph>
+            <p>BUT is it possible that such an Expression should come from the Loyal <hi>Heraclitus,</hi> so great a Champion for the Royal cause and interest as he pretends to be, truly there's no doubt on't 'tis as like him as if it had been spit out of his mouth as certainly it drop'd from his Scur<g ref="char:EOLhyphen"/>rilous Pen, that Mischievous instrument of his with the feather end of which as he strokes the Government by his fulsom and deceitful adulations, the other end he imployes to scratch the People with desperate and exasperating invectives; his Oyl and Vinegar being both improperly applied, not to the end to heal our Sores, but to make 'em; This Politick whiffler, and Mimick of State, that with his lushious drollery betwixt Jest and Earnest goes about to tarantulotise the Government and People into a fatal phrensie, and to dance themselves to death in frisking after his Lure and his Brother <hi>Observators</hi> Fiddle; A precious pair of Beagles indeed; and by their way of hunting, it is now evident what kind they are of: No other than Blood-Hounds their pursuit is blood and vengeance; our admired <hi>Heraclitus</hi> declares it plainly in this distich, the latter of which concludes.
+<q>
+                  <l>
+                     <hi>The Sons shall live to 'venge their Fathers Blood.</hi>
+                  </l>
+               </q>
+            </p>
+            <p>Oh most Loyal and Obliging; certainly the Devil has at last paid him the debt he has so long ow'd him for his services; the truth is I perceive the Whigs have not so wholly ingross'd all the brass commodity as he speaks, but they have left him enough to tincture his Face with sufficiently; otherwise durst the impu<g ref="char:EOLhyphen"/>dent Baffoon be so saucy (to give it no worse word) with the Government, to dare to instigate the head thereof contrary to his own native clemency and goodness, and his Royal Brother to Vengeance even to blood against the People — Vengeance is Gods. And although Princes, his Vice-gerents may and ought to imitate him in acts of Justice, yet not in Revenge, than which nothing can be more unworthy and un<g ref="char:EOLhyphen"/>becoming to those Earthly Deities in the clemency and mansuetude of whose minds (not exempt from due acts of Justice where the law requires) lies the greatest security of their Peoples and their own peace.</p>
+            <p>Certainly this Tory Writer was formerly Nursed up <hi>like Romulus</hi> at the Breast of some <hi>Irish</hi> Wolf, that he bears about him so savage and sanguinary a disposition; such cruel complements as these might have been proper enough for a <hi>Nero</hi> or <hi>Caligula,</hi> but to pass them upon two such Christian Princes, Princes indued with so much honour and goodness, and so far alienated from the principles of revenge and cruel<g ref="char:EOLhyphen"/>ty, is a piece of Arrogance in this Boutefeau of Sedition that's not to be parallel'd.</p>
+            <p>
+               <hi>Heraclitus</hi> is sometimes we find possessed with a poetick fury, when having his Brains inflated with the more brisk airs of the <hi>Observators</hi> Fiddle, he cannot contain himself, but must needs break out into Pindarick Raptures (and certainly the Noble <hi>Pindar</hi> was never more abused than in being ap'd by such a Sycophan<g ref="char:EOLhyphen"/>ting <gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ug as this is) in this humor he presumes to vent his Venome more liberally, and spares nothing sa<g ref="char:EOLhyphen"/>cred or civil, under the licentious pretext of a <hi>Licentia Poetica</hi> — in this humour we now find him under the pretence of a strained complement upon his Royal Highnesses deliverance from his late danger at Sea (which we do as heartily Congratulate as he can do) belching out his malice against the Whigs; and menacing them with some severe judgments to be expected from their Vengeful Princes —
+<q>
+                  <l>
+                     <hi>Their Son's shall live to 'venge their Fathers Blood.</hi>
+                  </l>
+               </q>
+            </p>
+            <pb facs="tcp:200320:2"/>
+            <p>As if there could be no more acceptable Eucharists offered to the obliging Heavens for so great a deli<g ref="char:EOLhyphen"/>verance, than by making the Subjects Victims to an unperioded Revenge.</p>
+            <p>We do acknowledge the providences of God in the preservation of these two great Princes our So<g ref="char:EOLhyphen"/>veraign and his Royal Brother to have been as miraculous as gracious, and we are sensible what returns have been made (not unbecoming them) to God for such his mercies; that sacred Blood (which this a<g ref="char:EOLhyphen"/>venger of Blood is yet so eager to revenge) was most justly avenged upon those principal ones that could be found to have had the most immediate hand in it; The King therein acted both as a pious Son, and just Successor to his Royal Father, in making them Victims to Justice; but then the distemper of Rebellion and Disloyalty, which occasioned that cursed Tragedy being universal, and by some overt Acts or other, in a manner the whole Nation concerned in it, His Majesty was most graciously pleased to recon<g ref="char:EOLhyphen"/>cile his delinquent Subjects to his favour by a free act of Amnesty and Oblivion, in which as a City of re<g ref="char:EOLhyphen"/>fuge they took Sanctuary, hoping the avenger of Blood should not farther pursue them. And by this act of Grace, the Love, Gratitude, Union and Obedience, and peace of the Subjects, were sufficiently secured, and I question not will continue so to be, notwithstanding these and the like malicious Artifices of this Over-grown Scribler, and his Brother <hi>Observator</hi> to the contrary.</p>
+            <p>Who knowing no other ways to execute their revenge upon their Fellow-Countrymen (distinguished by them under the contrived names of Whigs, Fanaticks, or what they please to make them) than by in<g ref="char:EOLhyphen"/>volving them in the Rebellion of the late times, are still reviving the memory of 41 and 48. the crimes of which have been already either punish'd or pardoned, and by this means indeavour to obviate that gra<g ref="char:EOLhyphen"/>cious Act of Oblivion, and to render the Subjects of their revenge, how innocent soever as culpable of that horrid Crime of the Kings Murther, as those that were actually concerned in it? But did the King and Par<g ref="char:EOLhyphen"/>liament know what they did when they passed that healing Act, not only for pardoning past Crimes, but terminating all differences that should arise by reason of them? Were not the Kings Murtherers particu<g ref="char:EOLhyphen"/>larly by name exempted in it, and the persons so named deservedly brought to punishment for it? And why was the Justice of the Government, so limited? and the Phanaticks, and Whigs, those Rebels against <hi>He<g ref="char:EOLhyphen"/>raclitus,</hi> and the <hi>Observator,</hi> not also excluded from the benefit of that gracious Edict, seeing they and their Children too, must in the sense of <hi>Heraclitus,</hi> be as guilty of that horrid Regicidisme, as those that were the immediate instruments in it.</p>
+            <p>We do believe that that horrid and unparallel'd Crime of Murthering his late Majesty, as it was de<g ref="char:EOLhyphen"/>tested by all good Men, so was no less hateful to God himself (whose anointed he was) and we may justly conclude that amongst those many Sins for which he has by manifold Judgments punished this Nation, this more especially has not been forgotten, and whether the next succeeding Generation, may not as well suffer for it as this has done, is best known to him <hi>to whom Vengeance belongeth;</hi> he may indeed by vertue of his divine Prerogative, visit the iniquities of the Fathers upon the Children, unto the third and fourth Generation, but that this should be the measures of humane justice, especially as to Blood, I much questi<g ref="char:EOLhyphen"/>on, let <hi>Heraclitus</hi> say what he will to the contrary; if the Fathers have eaten sower Grapes, must the Chil<g ref="char:EOLhyphen"/>drens Teeth be set an edge, yet this is the Divinity of our State Fop, <hi>Heraclitus Ridens.</hi> Why does he not com<g ref="char:EOLhyphen"/>mend this Doctrine to be preach't up by the <hi>Observat.</hi> inferiour <hi>Levites</hi> at <hi>Sams</hi> Colledge, would it not think you be a rare Subject to descant on at <hi>Whitehall,</hi> if any of them should come to the honour to Preach there, to tell the King that his Fathers Blood is not yet revenged, but cries still aloud for his Royall Justice (Now after almost 40 years to punish it) upon this and the succeeding Generations, that notwithstanding his for<g ref="char:EOLhyphen"/>mer gracious Act of indempnity so long as he and his Royal Brother live, they are bound to revenge it by Massacres and publick Slaughters, though the innocent Babes of the Whiggish Party be Baptized in their own blood to expiate for the Sins of their suspected Fathers. Would not this think you be an acceptable piece of Service to his Majesty to irritate him contrary to his own natural clemency, and goodness to such merciless and unbounded Revenges? and would it not be as obliging to the People, could they persuade them that the King were inclinable to such Counsels, that he has but dissembled with them in all those Acts of Grace that he has given them for their security against the strokes of his justice; for that his Roy<g ref="char:EOLhyphen"/>al Heart still burns in Revenge against them, and that both he and his Princely Brother will take all op<g ref="char:EOLhyphen"/>portunities to revenge their Fathers sufferings upon this and the succeeding Generation? Would not this tend to render his Sacred and Serene Majesty equal with that Tyrant <hi>Nero,</hi> that wished his People had but one Neck, that he might at one stroke at once destroy them — what excellent effects such monitions as these, were they regarded, might have between the King and his People, is easy to be imagined.</p>
+            <p>If His Majesty in the mean time take not notice of him, to other more deserved purposes, it is pity when such are there wanted, but this bold Dictator should be taken into the Council, and I question not but his advices would be as happy to the Government as those of the inferiour States-men were to <hi>Rehokoam,</hi> and we might have one Counsellor at Court that shall match, if not out-mate the so much exploded <hi>Achi<g ref="char:EOLhyphen"/>tophel</hi> abroad, but before he arrive at the honour, 'tis well if the fate of the <hi>Achitophel</hi> of old (for these his Villanous and Seditious Practices) do not more deservedly dispose of him. To require his Oracu<g ref="char:EOLhyphen"/>ous Metre, I shall conclude in like manner,
+<q>
+                  <l>
+                     <hi>Th' Heav'ns laugh at his attempts, and tell us loud,</hi>
+                  </l>
+                  <l>
+                     <hi>The Sons shall live to do their Country good,</hi>
+                  </l>
+                  <l>
+                     <hi>And punish those that seek the Nations Blood.</hi>
+                  </l>
+               </q>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Published by <hi>Langley Curtiss</hi> at the Sign of Sir <hi>Edmund-Bury-Godfrey,</hi> near <hi>Fleet-Bridge.</hi> 1682.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
